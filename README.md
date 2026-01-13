@@ -32,7 +32,15 @@ The submission follows the required Phase 1 structure:
 
 -    Python Libraries: PyQt6 (pip install PyQt6)
 
--    OS: Linux / Ubuntu (Tested on Ubuntu 22.04)
+-    OS: Linux / Ubuntu (Tested on Ubuntu 22.04) or you can install WSL on Windows {( WSL is extention of Linux in windows )}
+-    IF OS = Linux / Ubuntu
+-       then  directly open Visual Studio Code there
+-   IF you use WSL on windows
+        then open wsl command prompt
+    <img width="450" height="844" alt="image" src="https://github.com/user-attachments/assets/a905f9ce-ba4c-4deb-8c64-084f0134d687" />
+
+    in command prompt write (code .) and then open folder in VScode 
+
 
 ## 🚀 How to Compile & Run
 
